@@ -1,2 +1,3 @@
-# ANCcontrolPro
-ANC app to control and provide active noise cancellation for Bluetooth headphones
+# ANCControlPro
+
+Android app for controlling ANC settings.
